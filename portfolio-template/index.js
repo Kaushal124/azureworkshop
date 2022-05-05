@@ -1,5 +1,5 @@
 const name = 'Kaushal Kishore'
-const title = 'enthusiasm VLSI FPGA 
+const title = 'Enthusiast VLSI FPGA 
 const mail = 'kishore4403@gmail.com
 
 document.getElementById('title').innerText = name
